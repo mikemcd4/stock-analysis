@@ -12,11 +12,13 @@ First, we set 'tickerIndex' to zero before looping it over the dataset rows. The
 
 ### 2017 Results
 
-<img width="400" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/77767984/117514652-00c8a900-af5a-11eb-9e80-49af07ff6222.png">
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/77767984/117514961-b5fb6100-af5a-11eb-90ca-398acf205cf1.png)
+
 
 ### 2018 Results
 
-<img width="396" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/77767984/117514684-10e08880-af5a-11eb-9060-8a50513730bf.png">
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/77767984/117514965-b98ee800-af5a-11eb-848a-c77c412aa2b1.png)
+
 
 ### Summary
 
